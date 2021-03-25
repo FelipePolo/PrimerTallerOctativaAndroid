@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TallerUnimagUno</string>
+    <string name="login">USUARIO</string>
+    <string name="password">PASSWORD</string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="matematicas">MATEMATICAS</string>
+    <string name="fisica">FISICA</string>
+    <string name="estadistica">ESTADISTICA</string>
+    <string name="texto">TEXTO</string>
+    <string name="numero_uno">NUMERO UNO</string>
+    <string name="numero_dos">NUMERO DOS</string>
+
+    <string name="calcular">CALCULAR</string>
+    <string name="borrardato">BORRAR DATO</string>
+    <string name="suma">SUMA</string>
+    <string name="multiplicacion">MULTIPLICACIÓN</string>
+    <string name="potencia">POTENCIA</string>
+</resources>
